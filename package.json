@@ -1,0 +1,23 @@
+{
+  "name": "givememydata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelgalvez/givememydata.git"
+  },
+  "author": "Joel Galvez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joelgalvez/givememydata/issues"
+  },
+  "homepage": "https://github.com/joelgalvez/givememydata#readme",
+  "dependencies": {
+      "vuepress": "^0.14.2"
+   }
+}
